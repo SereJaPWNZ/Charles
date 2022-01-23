@@ -14,7 +14,7 @@
 - Install Certificates
 
 <div align="left">
-<img src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/Hi%2C%20I'm%20Sergey.gif" alt="My Logo"  />
+<img src="https://github.com/SereJaPWNZ/Charles/blob/master/assert/video.gif" alt="android"  />
 </div>
 
 ## 📫 How to reach me

@@ -41,6 +41,7 @@ response:
 Task:
 Сделать и в Rewrite, и в BreakPoint (можно отключить чтобы не стопило на каждом запросе)
  ⁃ Подменить url в Charles чтобы в запросе ушло имя которые вы вписали в Postman, а вернулось то, которое вы подставили в Charles.
+
 [![break](https://github.com/SereJaPWNZ/Charles/blob/master/assert/break_1.png)]
 [![rew](https://github.com/SereJaPWNZ/Charles/blob/master/assert/rew_1.png)]
 
@@ -63,6 +64,8 @@ Task:
 Сделать и в Rewrite, и в BreakPoint (можно отключить чтобы не стопило на каждом запросе)
  ⁃ Подменить body в Charles так чтобы в запросе ушла salary которую вы вписали в Postman, а в u_salary_1_5_year цифра вернулась меньше оригинальной из запроса.
 
+[![break](https://github.com/SereJaPWNZ/Charles/blob/master/assert/break_2.png)]
+[![rew](https://github.com/SereJaPWNZ/Charles/blob/master/assert/rew_2.png)]
 
 ### Ex 3:
 Method: GET
@@ -82,6 +85,8 @@ Task:
 Сделать и в Rewrite, и в BreakPoint (можно отключить чтобы не стопило на каждом запросе)
  ⁃ Подменить параметры запроса в Charles так, чтобы в Postman пришел ответ где другое name, daily_food > weight из запроса, а daily_sleep < weight из запроса.
 
+[![break](https://github.com/SereJaPWNZ/Charles/blob/master/assert/break_3.png)]
+[![rew](https://github.com/SereJaPWNZ/Charles/blob/master/assert/rew_3.png)]
 
 ### Ex 4:
 Method: GET
@@ -108,6 +113,8 @@ Task:
 - Сделать через Charles так, чтобы сервер вернул 500 код.
 - Сделать через Charles так, чтобы сервер вернул 405 код.
 
+[![break](https://github.com/SereJaPWNZ/Charles/blob/master/assert/break_4.png)]
+[![rew](https://github.com/SereJaPWNZ/Charles/blob/master/assert/rew_4.png)]
 
 ### Ex 5:
 Method: GET
@@ -129,6 +136,8 @@ Task:
  ⁃ Подменить salary в request
  ⁃ Подменить (salary * 2) в response
 
+[![break](https://github.com/SereJaPWNZ/Charles/blob/master/assert/break_5.png)]
+[![rew](https://github.com/SereJaPWNZ/Charles/blob/master/assert/rew_5.png)]
 
 ### Ex 6:
 Method: POST
@@ -155,7 +164,12 @@ Task:
  ⁃ Сделать через Charles так, чтобы в Postman вернулся ответ, в котором qa_salary_after_1.5_year переименовано в qa_salary_after_1.5_month
  ⁃ Сделать так чтобы qa_salary_after_3.5_years было меньше qa_salary_after_12_months в response
 
+[![break](https://github.com/SereJaPWNZ/Charles/blob/master/assert/break_6.png)]
+[![rew](https://github.com/SereJaPWNZ/Charles/blob/master/assert/rew_6.png)]
+
 ### Ex 7. Все настройки Charles выгрузить в GitHub
+
+[Link Charles_Settings](https://github.com/SereJaPWNZ/Charles/blob/master/Morkovkin_Group24_Charles_Settings.xml)
 
 ## 📫 How to reach me
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/res1stpwnz)

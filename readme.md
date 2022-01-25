@@ -86,7 +86,8 @@ Task:
  ⁃ Подменить параметры запроса в Charles так, чтобы в Postman пришел ответ где другое name, daily_food > weight из запроса, а daily_sleep < weight из запроса.
 
 ![break](https://github.com/SereJaPWNZ/Charles/blob/master/assert/break_3.png)
-![rew](https://github.com/SereJaPWNZ/Charles/blob/master/assert/rew_3.png)
+![rew1](https://github.com/SereJaPWNZ/Charles/blob/master/assert/rew_3.png)
+![rew2](https://github.com/SereJaPWNZ/Charles/blob/master/assert/rew_3(1).png)
 
 ### Ex 4:
 Method: GET
